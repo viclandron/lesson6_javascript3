@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 3, 2017
 
 ### Student Name:  
-(First and Last Name)
+Victoria Landron
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment introduces HTML DOM and how it is used it Javascript to influence parts of the page.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://viclandron.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to add and remove document nodes
+2. How to use HTML DOM
+3. How to access element content, CSS properties, and attributes
